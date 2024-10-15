@@ -17,6 +17,5 @@ https://atphqc.github.io/gephi-LTP/formes_complexes/[nom du dossier]/
 - [ ] (Ré)écrire les titres
 - [ ] Écrire les descriptions courtes
 - [ ] Écrire la section En savoir plus
-- [ ] Ajouter un lien vers l'index des auteurs de LTP d'Érudit
-- [ ] Personaliser le lien du nom de l'auteur
+- [X] Ajouter un lien vers l'index des auteurs de LTP d'Érudit
 - [ ] Ajouter un lien vers les matrices ?
