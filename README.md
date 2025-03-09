@@ -13,7 +13,7 @@ https://atphqc.github.io/gephi-LTP/formes_complexes/[nom du dossier]/
 ```
 
 ## À faire 
-- [ ] Téléverser les visualtions des nouvelles matrices
+- [ ] Téléverser les visualisations des nouvelles matrices (avec les articles de 2024)
 - [ ] (Ré)écrire les titres
 - [ ] Écrire les descriptions courtes
 - [ ] Écrire la section En savoir plus
