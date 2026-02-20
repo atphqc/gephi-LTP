@@ -1,5 +1,5 @@
 # Gephi-LTP
-Représentations visuelles des matrices auteurs-5 termes (formes simples) pour LTP faites sur Gephi avec l'extension SigmaJS exporter.
+Versions ultérieures des représentations visuelles des matrices auteurs-5 termes (formes simples) pour LTP faites sur Gephi avec l'extension SigmaJS exporter (archive).
 
 ## Pour voir la représentation
 ### Formes simples
